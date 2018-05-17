@@ -23,3 +23,9 @@ history organized? How would branches help?
 Branches would be helpful in creating a separate 'branch' for testing 
 your code. However your working code would still be available. Thus 
 code is organized.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help us visualize the branch structure by showing us a 
+visual representation or a grpah or a map of the branches along
+with the commits we have made and when.
